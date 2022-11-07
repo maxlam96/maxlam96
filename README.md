@@ -14,7 +14,6 @@
     </a>
 </p>
 
-[website]: https://ductn.info
-[twitter]: https://twitter.com/ductn4
-[instagram]: https://instagram.com/ductn_
-[linkedin]: https://linkedin.com/in/ductnn
+[website]: #
+[twitter]: https://twitter.com/gioiln
+[linkedin]: https://linkedin.com/in/gioiln
