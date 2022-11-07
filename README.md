@@ -1,7 +1,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamngocgioi&show_icons=true)
 ### Hi there, I'm [gioiln][website]
 
-[![Website](https://img.shields.io/website?label=ductn.info&style=for-the-badge&url=https://ductn.info)](https://ductn.info) ![Profile views](https://gpvc.arturio.dev/ductnn)
+[![Website](#) ![Profile views](#)
 
 <img align="center" alt="#" src="https://wallpapercave.com/wp/wp10034195.jpg"/>
 
@@ -9,8 +9,8 @@
 
 <p align="center">
     <a href="https://github.com/ductnn">
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ductnn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ductnn&layout=compact&langs_count=8&theme=algolia"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lamngocgioi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lamngocgioi&layout=compact&langs_count=8&theme=algolia"/>
     </a>
 </p>
 
