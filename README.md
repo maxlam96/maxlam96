@@ -1,4 +1,3 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamngocgioi&show_icons=true)
 ### Hi there, I'm [gioiln][website]
 
 [![Website](#) ![Profile views](#)
