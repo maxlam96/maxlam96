@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/lamngocgioi)
 
-<img align="center" alt="gioiln" src="https://wallpapercave.com/wp/wp11043668.jpg"/>
+<img align="center" alt="gioiln" src="https://wallpapercave.com/wp/wp6271705.jpg"/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
