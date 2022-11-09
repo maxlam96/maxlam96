@@ -1,18 +1,17 @@
-### Hi there, I'm [gioiln][website]
+### Hi there, I'm [Gioiln][website]
 
-[![Website](#) ![Profile views](#)
+[![Website](https://img.shields.io/website?label=ductn.info&style=for-the-badge&url=https://github.com/lamngocgioi)]([https://ductn.info](https://github.com/lamngocgioi) ![Profile views](https://gpvc.arturio.dev/lamngocgioi)
 
-<img align="center" alt="#" src="https://wallpapercave.com/wp/wp10034195.jpg"/>
+<img align="center" alt="gioiln" src="https://wallpapercave.com/wp/wp6582688.jpg"/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
     <a href="https://github.com/lamngocgioi">
         <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=lamngocgioi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lamngocgioi&layout=compact&langs_count=8&theme=algolia"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=lamnogcgioi&layout=compact&langs_count=8&theme=algolia"/>
     </a>
 </p>
 
-[website]: #
+[website]: https://github.com/lamngocgioi
 [twitter]: https://twitter.com/gioiln
-[linkedin]: https://linkedin.com/in/gioiln
