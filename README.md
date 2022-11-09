@@ -13,7 +13,5 @@
     </a>
 </p>
 
-[website]: https://github.com/lamngocgioi
-[twitter]: https://twitter.com/gioiln
-[twitter]: https://twitter.com/gioiln
+[website]: https://lamngocgioi.github.io
 [twitter]: https://twitter.com/gioiln
