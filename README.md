@@ -1,6 +1,6 @@
 ### Hi there, I'm [Gioiln][website]
 
-<img align="center" alt="gioiln" src="https://wallpapercave.com/wp/wp6271705.jpg"/>
+<img align="center" alt="gioiln" src="https://wallpapercave.com/uwp/uwp4207945.png"/>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
