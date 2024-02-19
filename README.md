@@ -10,4 +10,4 @@
     </a>
 </p>
 
-[website]: https://github.io/maxlam96/maxlam96
+[website]: [https://github.io/maxlam96/maxlam96](https://github.com/maxlam96/maxlam96)https://github.com/maxlam96/maxlam96
