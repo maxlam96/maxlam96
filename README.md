@@ -1,4 +1,4 @@
-# Hello, I'm [Your Name] 👋
+# Hello, I'm [Maxlam] 👋
 
 I'm a dedicated **DevOps** with a deep passion for optimizing infrastructure, automating processes, and enhancing system reliability. With a focus on modern technologies and practices, I am committed to delivering high-quality solutions and driving continuous improvement.
 
@@ -45,7 +45,7 @@ I specialize in creating robust, scalable systems and deploying automation strat
 
 ## 📊 GitHub Stats
 
-[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&hide_title=true&hide_rank=true&count_private=true&theme=radical)](https://github.com/your-github-username)
+[![Your Name's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maxlam&show_icons=true&hide_title=true&hide_rank=true&count_private=true&theme=radical)](https://github.com/maxlam)
 
 ## 📝 Blog Posts & Articles
 
