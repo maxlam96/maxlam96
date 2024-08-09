@@ -1,6 +1,6 @@
 # Hello, I'm [Your Name] 👋
 
-I'm a dedicated **System Administrator** and **DevOps Engineer** with a deep passion for optimizing infrastructure, automating processes, and enhancing system reliability. With a focus on modern technologies and practices, I am committed to delivering high-quality solutions and driving continuous improvement.
+I'm a dedicated **DevOps** with a deep passion for optimizing infrastructure, automating processes, and enhancing system reliability. With a focus on modern technologies and practices, I am committed to delivering high-quality solutions and driving continuous improvement.
 
 ## 🌟 About Me
 
