@@ -1,38 +1,40 @@
-# Hi there, I'm maxlam96 👋 
+# Hi there, I'm maxlam96 👋
+### ☁️ DevOps / Site Reliability Engineer
 
-### 🚀 About Me
-- 👨‍💻 I'm a Developer born in 1996, passionate about building impactful products.
-- 🎓 Learning and exploring new technologies every day.
-- 🎯 Current focus: Mastering Microservices and Cloud Native.
-- 🏠 Based in Vietnam 🇻🇳
+- 🛠️ **Tư duy:** "Tự động hóa mọi thứ có thể."
+- 🏗️ **Chuyên môn:** Thiết kế CI/CD, Quản lý Kubernetes, Infrastructure as Code (IaC).
+- 🐧 **Hệ điều hành:** Linux là nhà, Terminal là vũ khí.
+- 🎯 **Mục tiêu:** Tối ưu hóa hiệu năng hệ thống và đảm bảo uptime 99.99%.
 
 ---
 
-### 🛠 Tech Stack
-| Category | Tools & Technologies |
+### 🧰 DevOps Toolbox
+
+| Category | Tools |
 | :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white) ![Vue](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white) ![NextJS](https://img.shields.io/badge/-NextJS-000000?logo=next.js&logoColor=white) |
-| **Backend** | ![NodeJS](https://img.shields.io/badge/-NodeJS-339933?logo=node.js&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white) |
-| **DevOps** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white) |
+| **Cloud** | ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws) ![GCP](https://img.shields.io/badge/-GCP-4285F4?logo=google-cloud) ![Azure](https://img.shields.io/badge/-Azure-0089D6?logo=microsoft-azure) |
+| **Containerization** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes) |
+| **IaC** | ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform) ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible) |
+| **CI/CD** | ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=jenkins) ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?logo=gitlab) ![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?logo=github-actions) |
+| **Monitoring** | ![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus) ![Grafana](https://img.shields.io/badge/-Grafana-F46800?logo=grafana) ![ELK](https://img.shields.io/badge/-ELK_Stack-005571?logo=elastic-stack) |
+| **Scripting** | ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white) |
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 <p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxlam96&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxlam96&layout=compact&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=maxlam96&show_icons=true&theme=dracula&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxlam96&layout=compact&theme=dracula" />
 </p>
 
 ---
 
-### 📫 Get in touch
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email**: [yourname@email.com](mailto:yourname@email.com)
-- **Blog**: [yourblog.com](https://yourblog.com)
+### 🤝 Connect with me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:yourname@email.com)
 
 ---
 
 <p align="center">
-  <i>"Talk is cheap. Show me the code." - Linus Torvalds</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=If%20it%20hurts,%20do%20it%20more%20often.%20-%20Jez%20Humble" alt="DevOps Quote" />
 </p>
